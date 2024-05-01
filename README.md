@@ -21,10 +21,12 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 ##
 
 Repository: https://github.com/danielleboe/employee-payroll
-Live URL: 
+Live URL: https://danielleboe.github.io/employee-payroll/
 
-![video demo](https://drive.google.com/file/d/1Y6JXSfmujxqLin0HaxhRxaKKU40uOeTL/preview)
+![video demo](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Video%20Demo.webm?raw=true)
 
-![alt text](http://url/to/img.png)
+![full screen](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Full-screen.png?raw=true)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Screenshot%202024-05-01%20at%204.47.09%E2%80%AFPM.png?raw=true)
+
+![prompt](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Screenshot%202024-05-01%20at%204.47.17%E2%80%AFPM.png?raw=true)
