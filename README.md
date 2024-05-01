@@ -1,5 +1,9 @@
 # Employee Payroll Tracker Starter Code
 
+Repository: https://github.com/danielleboe/employee-payroll
+Live URL: https://danielleboe.github.io/employee-payroll/
+
+
 # User Story
 AS A payroll manager
 I WANT AN employee payroll tracker
@@ -16,17 +20,26 @@ THEN I am prompted to add a new employee
 WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 
+# Final Experience
 
+## Video Demo
+[![Video Demo](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Screenshot%202024-05-01%20at%205.27.20%E2%80%AFPM.png?raw=true)](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Video%20Demo.webm?raw=true)
 
-##
-
-Repository: https://github.com/danielleboe/employee-payroll
-Live URL: https://danielleboe.github.io/employee-payroll/
-
-![video demo](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Video%20Demo.webm?raw=true)
-
+## Screenshots
 ![full screen](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Full-screen.png?raw=true)
 
 ![alt text](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Screenshot%202024-05-01%20at%204.47.09%E2%80%AFPM.png?raw=true)
 
 ![prompt](https://github.com/danielleboe/employee-payroll/blob/main/Develop/Screenshot%202024-05-01%20at%204.47.17%E2%80%AFPM.png?raw=true)
+
+
+## Usage
+Page is to be used for marketing purposes.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
