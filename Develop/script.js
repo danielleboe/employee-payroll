@@ -4,7 +4,6 @@ const addEmployeesBtn = document.querySelector('#add-employees-btn');
 
 // Collect employee data
 
-//question: why is no click  or reference to addEmployeedata needed? how is the button click connected to the prompt functionality?
 const collectEmployees = function() {
   // TODO: Get user input to create and return an array of employee objects
   const employees = []; //declare employee variables as an array
